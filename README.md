@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Animesh Basak</h1>
-<h3 align="center">A passionate Database Administrator Engineer from Bangladesh</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EAF70F&width=435&lines=Hello+There%2C+I'm+Animesh+Basak;A+passionate+Database+Engineer..!!;%F0%9F%91%8B+Nice+to+meet+you..!!+" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animeshbasakcse&label=Profile%20views&color=0e75b6&style=flat" alt="animeshbasakcse" /> </p>
 
