@@ -3,11 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animeshbasakcse&label=Profile%20views&color=0e75b6&style=flat" alt="animeshbasakcse" /> </p>
 
 
-- 🔭 I’m currently working on **Prime Bank Ltd. (Internship)**
+- 🔭 I’m currently working on **Nazihar IT Solutions Ltd.**
 
-- 🌱 I’m currently learning **MongoDB Database, PostgreSQL**
-
-- 👯 I’m looking to collaborate on **DBA Team**
+- 🌱 I’m currently Work on **Oracle Database, Microsoft SQL Server, MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/animeshbasakcse](https://github.com/animeshbasakcse)
 
